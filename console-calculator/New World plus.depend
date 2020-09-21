@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476556206 source:c:\users\david\documents\codeblocks projects\new world plus\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<cctype>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+
